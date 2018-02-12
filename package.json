@@ -1,0 +1,23 @@
+{
+  "name": "hellosign_api",
+  "version": "1.0.0",
+  "description": "testing out hellosign API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesaravina/hellosign_api.git"
+  },
+  "keywords": [],
+  "author": "cesar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesaravina/hellosign_api/issues"
+  },
+  "homepage": "https://github.com/cesaravina/hellosign_api#readme",
+  "dependencies": {
+    "hellosign": "0.0.7"
+  }
+}
